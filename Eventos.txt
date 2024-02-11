@@ -1,0 +1,4 @@
+¿Cual es el nombre del evento?
+¿Qué hace el evento?
+¿En que parte de la acción se debería integrar?
+¿Que parametros se tiene que enviar a "Segment"?
