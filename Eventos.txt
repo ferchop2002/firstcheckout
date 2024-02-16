@@ -2,4 +2,4 @@
 ¿Qué hace el evento?
 ¿En que parte de la acción se debería integrar?
 ¿Que parametros se tiene que enviar a "Segment"?
-Changes 1
+Changes ideas
